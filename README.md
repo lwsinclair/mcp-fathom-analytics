@@ -1,14 +1,17 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mackenly-mcp-fathom-analytics-badge.png)](https://mseep.ai/app/mackenly-mcp-fathom-analytics)
-
 # MCP Fathom Analytics
 
 An unofficial Model Context Protocol ([MCP](https://modelcontextprotocol.io/introduction)) server for accessing [Fathom Analytics](https://usefathom.com/) data through an AI assistant. This implementation uses the [@mackenly/fathom-api](https://github.com/mackenly/fathom-api) unofficial SDK to interact with the Fathom Analytics API. Not affiliated, endorsed, or supported by Fathom Analytics. Published to [npm as an npx script](https://www.npmjs.com/package/mcp-fathom-analytics).
 
 [![smithery badge](https://smithery.ai/badge/@mackenly/mcp-fathom-analytics)](https://smithery.ai/server/@mackenly/mcp-fathom-analytics)
 
-<a href="https://glama.ai/mcp/servers/56cxbakbc4">
+<p float="left">
+<a href="https://glama.ai/mcp/servers/56cxbakbc4" width="33%">
   <img width="380" height="200" src="https://glama.ai/mcp/servers/56cxbakbc4/badge" alt="Fathom Analytics MCP server" />
+</a> 
+<a href="https://mseep.ai/app/mackenly-mcp-fathom-analytics" width="33%">
+  <img width="200" src="https://mseep.net/pr/mackenly-mcp-fathom-analytics-badge.png" alt="MseeP.ai Security Assessment Badge" />
 </a>
+</p>
 
 ## Features
 
